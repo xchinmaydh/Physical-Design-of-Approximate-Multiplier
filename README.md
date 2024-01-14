@@ -24,13 +24,13 @@ The steps to run the user-project are as follows :
 8. Navigate back to flow folder.
 9. Edit the Makefile, and add the DESIGN_CONFIG for new design, save and close.
 10. Run
-    '''
+    '
     make
-    '''
+    '
 11. After command executes, run
-    '''
+    '
     make gui_final
-    '''
+    '
     which will open the GUI.
 
 ## Example project - Approximate Multiplier.
@@ -41,13 +41,13 @@ The steps to run the user-project are as follows :
 4. Create the folder named 'apxmul', in /designs/asap7/ .
 5. Copy the files, 'config.mk' and 'constraint.sdc' into the above created folder.
 6. Navigate back to flow directory, and add the following command
-   '''
+   '
    make DESIGN_CONFIG=./designs/asap7/apxmul/config.mk
-   '''
+   '
 7. Finally run
-   '''
+   '
    make DESIGN_CONFIG=./designs/asap7/apxmul/config.mk gui_final
-   '''
+   '
 
 ## Common Variables used
 The list of commonly used flow variables are as follow:
