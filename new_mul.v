@@ -1,4 +1,6 @@
+// The verilog code for hybrid approximate multiplier. Taken from https://github.com/RatkoFri/MulApprox . 
 
+//The algorithm is simple and is described below.
 // Calculates P = X*Y = X1*Y*2^14 + X0*Y1*2^14 + X0*Y0
 // X1 = x[15:13], X0 = x[13:0]
 // Y1 = y[15:13], Y0 = y[13:0]
