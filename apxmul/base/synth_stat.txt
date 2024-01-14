@@ -1,0 +1,67 @@
+
+24. Printing statistics.
+
+=== HRALM4 ===
+
+   Number of wires:                761
+   Number of wire bits:            822
+   Number of public wires:           8
+   Number of public wire bits:      69
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                759
+     AND2x2_ASAP7_75t_R             47
+     AND2x4_ASAP7_75t_R              1
+     AND3x1_ASAP7_75t_R             41
+     AND4x1_ASAP7_75t_R             15
+     AND4x2_ASAP7_75t_R              1
+     AND5x1_ASAP7_75t_R              2
+     AO21x1_ASAP7_75t_R             63
+     AO21x2_ASAP7_75t_R              7
+     AO221x1_ASAP7_75t_R            44
+     AO221x2_ASAP7_75t_R             1
+     AO22x1_ASAP7_75t_R              7
+     AO31x2_ASAP7_75t_R              1
+     AO32x1_ASAP7_75t_R             16
+     AOI211x1_ASAP7_75t_R            5
+     AOI21x1_ASAP7_75t_R             4
+     AOI221x1_ASAP7_75t_R            7
+     AOI22x1_ASAP7_75t_R             2
+     BUFx12f_ASAP7_75t_R             1
+     BUFx2_ASAP7_75t_R              53
+     BUFx3_ASAP7_75t_R               3
+     BUFx4f_ASAP7_75t_R              1
+     BUFx6f_ASAP7_75t_R              6
+     DFFHQNx1_ASAP7_75t_R           32
+     FAx1_ASAP7_75t_R               10
+     HAxp5_ASAP7_75t_R              19
+     INVx11_ASAP7_75t_R              1
+     INVx1_ASAP7_75t_R              90
+     MAJx2_ASAP7_75t_R               1
+     NAND2x1_ASAP7_75t_R            42
+     NAND2x2_ASAP7_75t_R             1
+     NAND3x1_ASAP7_75t_R             4
+     NAND3x2_ASAP7_75t_R             1
+     NOR2x1_ASAP7_75t_R             52
+     NOR2x2_ASAP7_75t_R              1
+     NOR3x1_ASAP7_75t_R              5
+     OA211x2_ASAP7_75t_R            16
+     OA21x2_ASAP7_75t_R             31
+     OA222x2_ASAP7_75t_R             1
+     OA22x2_ASAP7_75t_R              1
+     OA31x2_ASAP7_75t_R              1
+     OAI21x1_ASAP7_75t_R            22
+     OAI22x1_ASAP7_75t_R             1
+     OR2x2_ASAP7_75t_R              11
+     OR2x6_ASAP7_75t_R               1
+     OR3x1_ASAP7_75t_R              34
+     OR3x2_ASAP7_75t_R               1
+     OR4x1_ASAP7_75t_R               7
+     OR4x2_ASAP7_75t_R               1
+     OR5x1_ASAP7_75t_R               5
+     XNOR2x2_ASAP7_75t_R             7
+     XOR2x2_ASAP7_75t_R             32
+
+   Chip area for module '\HRALM4': 82.522800
+
