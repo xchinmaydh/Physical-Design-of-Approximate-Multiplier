@@ -61,5 +61,26 @@ The output of the run will look like this
 
 <img width="960" alt="Screenshot 2024-01-11 192307" src="https://github.com/xchinmaydh/Physical-Design-of-Approximate-Multiplier/assets/153248450/a4bad3bd-ad68-4ac0-b40e-4bbdeedb4eb0">
 
+Placement
+
+![final_placement](https://github.com/xchinmaydh/Physical-Design-of-Approximate-Multiplier/assets/153248450/f71ab6f1-52d0-432b-b55b-85f9673dd25d)
+
+IR Drop
+
+![ir](https://github.com/xchinmaydh/Physical-Design-of-Approximate-Multiplier/assets/153248450/80a24bd8-cf4d-4b75-892b-15589621e2c4)
+
+Clock Tree
+
+![final_clocks](https://github.com/xchinmaydh/Physical-Design-of-Approximate-Multiplier/assets/153248450/3fba75e5-ba66-4b30-b032-8beeafc799a8)
+
+Routeout
+
+![final_routing](https://github.com/xchinmaydh/Physical-Design-of-Approximate-Multiplier/assets/153248450/9e85b1e3-7f6f-4395-9a72-3a56fd751f15)
+
+The results, reports and logs can be found inside the respective folders in the flow directory.
+
+
+
+
 
 
